@@ -1,0 +1,47 @@
+{
+  "objects": [
+    {
+      "items": [
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/cushion_halo.glb",
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/empty.glb",
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/pear_halo.glb"
+      ],
+      "prefix": "Basket/",
+      "name": "Basket",
+      "title": "",
+      "icon": "",
+      "icons": ["Cushion Halo", "Empty", "Pear Halo"],
+      "titles": ["cushion_halo", "empty", "pear_halo"],
+      "iconFiles": []
+    },
+    {
+      "items": [
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/alliance.glb",
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/baguette.glb"
+      ],
+      "prefix": "Ring/",
+      "name": "Ring",
+      "title": "",
+      "icon": "",
+      "icons": ["Alliance", "Baguette"],
+      "titles": ["alliance", "baguette"],
+      "iconFiles": []
+    }
+  ],
+  "materials": [
+    {
+      "items": [
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/rose.pmat",
+        "https://3dassetsmaan.s3.ap-south-1.amazonaws.com/VariationConfiguratorTutorials/1/white.pmat"
+      ],
+      "icons": ["#988583", "#ffffff"],
+      "iconFiles": [],
+      "titles": ["rose", "white"],
+      "prefix": "Metal/",
+      "name": "Metal",
+      "icon": "",
+      "title": ""
+    }
+  ],
+  "type": "VariationConfiguratorPlugin"
+}
