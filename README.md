@@ -1,4 +1,4 @@
-# Custom WebGi plugin UI for VariationConfiguratorPlugin
+# Custom WebGi Ui plugin for VariationConfiguratorPlugin
 
 This repository contains a code demo showcasing how to create a custom webgi plugin that creates dynamic Ui with HTML, TypeScript, and the VariationConfiguratorPlugin.
 
@@ -14,7 +14,7 @@ Explore the implementation in the following files:
 
 - `index.html`: The main HTML file containing the custom UI elements.
 - `./src/main.ts`: The TypeScript file containing the logic to interact with VariationConfiguratorPlugin and CustomConfiguratorUiPlugin.
-- `./src/main.ts`: The TypeScript file for the CustomConfiguratorUiPlugin.
+- `./src/CustomConfiguratorUiPlugin.ts`: The TypeScript file for the CustomConfiguratorUiPlugin.
 
 
 ## Learn More
